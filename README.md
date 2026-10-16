@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Dalusha Nimhara 👋
 
-<!--
-**dalushanimhara/dalushanimhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate Engineering Student focusing on **Low-Level Systems, Microcontrollers, and Hardware-Software Co-Design**.
 
-Here are some ideas to get you started:
+- 🔭 **Current Project:** Building a universal low-level laptop control utility (reverse engineering ACPI, WMI, and Embedded Controller tables).
+- ⚙️ **Core Stack:** C / C++, C#, Python, Microcontroller Firmware, Windows ACPI/WMI.
+- 🎯 **Academic Focus:** Embedded Systems, Hardware Abstraction, Simulation, and Control Loops.
+- 🌐 **Connect:** [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+- **Languages:** C, C++, C#, Python
+- **Hardware & Low-Level:** Microcontrollers, ACPI/WMI Interfaces, Embedded Controller (EC) Registers
+- **Tools & Environments:** Visual Studio, VS Code, Git, Simulation Tools
+
+---
+
+### 📌 Signature Repositories
+*Projects, schematics, and system block diagrams will be pinned below.*
